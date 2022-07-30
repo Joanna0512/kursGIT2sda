@@ -1,1 +1,3 @@
 Dodanie funkcjonalności A.
+Dodanie funkcjonalności A 2.0.
+
