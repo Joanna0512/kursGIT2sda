@@ -1,3 +1,4 @@
 Dodanie funkcjonalności A.
 Dodanie funkcjonalności A 2.0.
-Zmiana zawartości pliku A.
+Zmiana zawartości pliku A
+I jeszcze zmienimy zawartość.
